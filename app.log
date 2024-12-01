@@ -1,0 +1,10 @@
+2024-12-02 00:27:04,706 - INFO - Connecting to MongoDB server...
+2024-12-02 00:27:04,896 - INFO - Fetching list of databases...
+2024-12-02 00:27:05,396 - INFO - Available databases: myFirstDatabase, processed_data, sample_mflix, admin, local
+2024-12-02 00:27:05,396 - INFO - Connected to database: sample_mflix
+2024-12-02 00:27:05,396 - INFO - Connected to collection: movies
+2024-12-02 00:27:05,497 - INFO - Aggregation complete. Retrieved 25 records.
+2024-12-02 00:27:05,500 - INFO - Connected to database: processed_data
+2024-12-02 00:27:05,500 - INFO - Connected to collection: processed_reports
+2024-12-02 00:27:05,548 - INFO - Processed data inserted into processed_reports collection.
+2024-12-02 00:27:15,084 - INFO - Closing the connection to the MongoDB server.

@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore PyCharm and VSCode settings
+.idea/
+.vscode/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+
+# Ignore results (optional)
+results/*.png
+results/*.csv
